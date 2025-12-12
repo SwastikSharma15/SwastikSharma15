@@ -1,10 +1,10 @@
 <h1 align="center">Hey, I'm Swastik Sharma 👋</h1>
-<h3 align="center">Frontend Developer • React Enthusiast • UI Engineer</h3>
+<h3 align="center">Frontend Developer • React Enthusiast • UI Engineer • Video Editor</h3>
 
 <p align="center">
   <a href="https://swastikmacolio.vercel.app" target="_blank">Portfolio</a> •
-  <a href="https://www.youtube.com/@SpeedX_/" target="_blank">YouTube</a> •
-  <a href="https://www.linkedin.com/in/swastik15sharma/" target="_blank">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/swastik15sharma/" target="_blank">LinkedIn</a> •
+  <a href="https://www.youtube.com/@SpeedX_/" target="_blank">YouTube</a>
 </p>
 
 ---
@@ -14,7 +14,8 @@ I build clean, responsive, and functional web interfaces. I care about performan
 
 - 🔥 **Frontend Developer (React + JS + Tailwind)**
 - 📍 Based in **Himachal Pradesh, India**
-- 📚 Currently learning **TypeScript** seriously  
+- 📚 Currently learning **TypeScript** seriously
+- 👨‍💻 All of my projects are available at: **https://swastikmacolio.vercel.app/**
 - ✍️ I write blogs here → **https://swastiksharma15.github.io/Portfolio/blogs.html**
 - 📫 Reach me at: **swastik15.sharma.work@gmail.com**
 
@@ -28,7 +29,7 @@ I build clean, responsive, and functional web interfaces. I care about performan
 
 ## 🧩 Exploring / Learning  
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,ts,redux,mysql,mongodb,express,docker,graphql" />
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,redux,mysql,mongodb,express,docker" />
 </p>
 
 ---
@@ -38,11 +39,11 @@ I build clean, responsive, and functional web interfaces. I care about performan
   <a href="https://www.linkedin.com/in/swastik15sharma/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="28" />
   </a>
-  <a href="https://instagram.com/__speedx__">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="28" />
-  </a>
   <a href="https://www.youtube.com/@SpeedX_">
     <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="28" />
+  </a>
+  <a href="https://instagram.com/__speedx__">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="28" />
   </a>
   <a href="https://discord.gg/sSxmkzXwv4">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&style=for-the-badge" height="28" />
