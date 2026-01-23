@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Swastik Sharma 👋</h1>
-<h3 align="center">Frontend Developer • React Enthusiast • UI Engineer • Video Editor</h3>
+<h3 align="center">Frontend Developer • React Developer • UI Engineer • Video Editor</h3>
 
 <p align="center">
   <a href="https://swastikmacolio.vercel.app" target="_blank">Portfolio</a> •
@@ -12,7 +12,7 @@
 ## 🚀 About Me  
 I build clean, responsive, and functional web interfaces. I care about performance, user experience, and writing code that doesn’t turn into a dumpster fire six months later.
 
-- 🔥 **Frontend Developer (React + JS + Tailwind)**
+- 🔥 **Frontend Developer (React + JS + Tailwind + GSAP)**
 - 📍 Based in **Himachal Pradesh, India**
 - 📚 Currently learning **TypeScript** seriously
 - 👨‍💻 All of my projects are available at: **https://swastikmacolio.vercel.app/**
