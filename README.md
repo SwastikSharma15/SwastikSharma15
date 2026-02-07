@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer • React Developer • UI Engineer • Video Editor</h3>
 
 <p align="center">
-  <a href="https://swastikmacolio.vercel.app" target="_blank">Portfolio</a> •
+  <a href="https://swastikmacolio.in" target="_blank">Portfolio</a> •
   <a href="https://www.linkedin.com/in/swastik15sharma/" target="_blank">LinkedIn</a> •
   <a href="https://www.youtube.com/@SpeedX_/" target="_blank">YouTube</a>
 </p>
@@ -15,7 +15,7 @@ I build clean, responsive, and functional web interfaces. I care about performan
 - 🔥 **Frontend Developer (React + JS + Tailwind + GSAP)**
 - 📍 Based in **Himachal Pradesh, India**
 - 📚 Currently learning **TypeScript** seriously
-- 👨‍💻 All of my projects are available at: **https://swastikmacolio.vercel.app/**
+- 👨‍💻 All of my projects are available at: **https://swastikmacolio.in**
 - ✍️ I write blogs here → **https://swastiksharma15.github.io/Portfolio/blogs.html**
 - 📫 Reach me at: **swastik15.sharma.work@gmail.com**
 
@@ -31,6 +31,13 @@ I build clean, responsive, and functional web interfaces. I care about performan
 <p>
   <img src="https://skillicons.dev/icons?i=ts,nextjs,redux,mysql,mongodb,express,docker" />
 </p>
+
+---
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SwastikSharma15&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=SwastikSharma15&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SwastikSharma15&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
