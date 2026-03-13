@@ -14,7 +14,7 @@ I build clean, responsive, and functional web interfaces. I care about performan
 
 - 🔥 **Frontend Developer (React + JS + Tailwind + GSAP)**
 - 📍 Based in **Himachal Pradesh, India**
-- 📚 Currently learning **TypeScript** seriously
+- 📚 Currently learning **Next JS**
 - 👨‍💻 All of my projects are available at: **https://swastikmacolio.in**
 - ✍️ I write blogs here → **https://swastiksharma15.github.io/Portfolio/blogs.html**
 - 📫 Reach me at: **swastik15.sharma.work@gmail.com**
@@ -35,9 +35,7 @@ I build clean, responsive, and functional web interfaces. I care about performan
 ---
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SwastikSharma15&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=SwastikSharma15&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SwastikSharma15&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
