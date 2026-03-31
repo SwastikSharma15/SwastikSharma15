@@ -35,7 +35,7 @@ I build clean, responsive, and functional web interfaces. I care about performan
 ---
 
 ## 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=SwastikSharma15&theme=dark&hide_border=true)<br/>
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=SwastikSharma15&theme=onedark-duo&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
 ---
 
